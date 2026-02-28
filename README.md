@@ -4,18 +4,18 @@
 
 ## OCI Playground Testing
 
-![OCI Playground Test 1](images/oci_#1.png)
+![OCI Playground Test 1](images/oci_1.png)
 
-![OCI Playground Test 2](images/oci_#2.png)
+![OCI Playground Test 2](images/oci_2.png)
 
 ---
 
 ## Python Code Testing
 
-![Python Test 1](images/#1.png)
+![Python Test 1](images/1.png)
 
-![Python Test 2](images/#2.png)
+![Python Test 2](images/2.png)
 
-![Python Test 3](images/#3.png)
+![Python Test 3](images/3.png)
 
 ---
